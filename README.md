@@ -67,7 +67,7 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 
 ### Google_meets.py
 - This is where you put the links you want to join.
-- It will be in an order from the first link to the last link.
+- It will be in an order from the first link to the last link in corresponding with time.
 
 ## Running it
 1. Search idle in windows search then open it.
