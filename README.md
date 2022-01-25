@@ -52,9 +52,9 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 ## Configuration
 1. Now that all the dependencies are finished you can now download the zip file of this repository.
 2. Move it to the documents folder.
-3. Then extract the file which has 3 python files named google meeter.py,google_meeter_back_end and Google_meets.py.
+3. Then extract the file which has 3 python files named main_google_meeter.py,google_meeter_back_end and Google_meets.py.
 
-### google meeter.py-
+### main_google_meeter.py-
 - This is the main file,You have to run this in order to run the full 3 files.
 - You can change the time settings according to your wish.
 
@@ -71,8 +71,8 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 1. Search idle in windows search then open it.
 2. After that press file at the top left and click open.
 3. Then go to the documents folder where all the google meeter files and chromedriver.exe are.
-4. Then open google meeter.py.
-5. Repeat 1,2 and 3 step and this time open Google_meets.py and configure the links and save the file.
+4. Then open main_google_meeter.py.
+5. Repeat 1st,2nd and 3rd step and this time open Google_meets.py and configure the links and save the file.
 6. After everthing is done like configuring time and saving in google meeter.py run the file by clicking run at the top and press run module(f5).
 
 # Congratualtions You Did It :)
