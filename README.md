@@ -59,7 +59,6 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 
 ### main_google_meeter.py-
 - This is the main file,You have to run this in order to run the full 3 files.
-- You can change the time settings according to your wish.
 
 ### google_meeter_back_end.py
 - This is the backend of the programme
@@ -76,7 +75,9 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 3. Then go to the documents folder where all the google meeter files and chromedriver.exe are.
 4. Then open main_google_meeter.py.
 5. Repeat 1st,2nd and 3rd step and this time open Google_meets.py and configure the links and save the file.
-6. After everthing is done like configuring time and saving in google meeter.py run the file by clicking run at the top and press run module(f5).
+6. Configure the links in Google_meets.py and run the main_google_meeter.py by clicking run at the top and press run module(f5).
+7. Then it will ask you for the time of the 5 meetings **it is in 24 hours time(Example:-"09:00 which means 9am" while "21:00 means 9pm")
+8. After that you just wait and the programme will do the job for you
 
 # Congratualtions You Did It :)
 Now wait for the programme to start at the time you kept it.
