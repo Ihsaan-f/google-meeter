@@ -77,10 +77,20 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 5. Repeat 1st,2nd and 3rd step and this time open Google_meets.py and configure the links and save the file.
 6. Configure the links in Google_meets.py and run the main_google_meeter.py by clicking run at the top and press run module(f5).
 7. Then it will ask you for the time of the 5 meetings **it is in 24 hours time(Example:-"09:00 which means 9am" while "21:00 means 9pm")**
-8. After that you just wait and the programme will do the job for you
+9. After that you just wait and the programme will do the job for you
 
-# Congratualtions You Did It :)
-Now wait for the programme to start at the time you kept it.
+## **The options after running main_google_meeter.py**
+1. ### Fast option-
+- This option helps you to manually give the programme the time in 24 hours for which the meeting occurs
+- The place to give the time is in the console which it will prompt you
+- This asks 5 meeting times from first to last
+2. ### Default option-
+- This is a feature for school students 
+- You can configure part from line 21 to line 26 by just replacing the values(Example:-schedule.every().day.at("08:30").do(meet1) you can just change the "8:30 in this case so it becomes-schedule.every().day.at("09:00").do(meet1) which will tell the programme to open the google meet at that time
+
+
+# Congratualtions You Did It :) 
+Now wait for the programme to start,**Enjoy**
 
 ![pepe happy](https://i.kym-cdn.com/photos/images/original/002/122/095/1b8.png)
 
