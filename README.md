@@ -95,3 +95,5 @@ Now wait for the programme to start,**Enjoy**
 ![pepe happy](https://i.kym-cdn.com/photos/images/original/002/122/095/1b8.png)
 
 **I will Update the Programme when Needed :).**
+
+message from kallil6454: my man cant explain the second point properly in google_meets.py 
