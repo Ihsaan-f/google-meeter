@@ -76,7 +76,7 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 4. Then open main_google_meeter.py.
 5. Repeat 1st,2nd and 3rd step and this time open Google_meets.py and configure the links and save the file.
 6. Configure the links in Google_meets.py and run the main_google_meeter.py by clicking run at the top and press run module(f5).
-7. Then it will ask you for the time of the 5 meetings **it is in 24 hours time(Example:-"09:00 which means 9am" while "21:00 means 9pm")
+7. Then it will ask you for the time of the 5 meetings **it is in 24 hours time(Example:-"09:00 which means 9am" while "21:00 means 9pm")**
 8. After that you just wait and the programme will do the job for you
 
 # Congratualtions You Did It :)
