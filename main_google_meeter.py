@@ -5,7 +5,7 @@ import time
 from selenium import webdriver
 time.sleep(2)
 
-#Gave idea and Example Code Kallil6454
+#Credit Kallil6454
 Time1 =str(input("Enter your Time for 1st meeting. 24 HOUR FORMAT:"))
 Time2 =str(input("Enter your Time for 2th meeting. 24 HOUR FORMAT:"))
 Time3 =str(input("Enter your Time for 3rd meeting. 24 HOUR FORMAT:"))
