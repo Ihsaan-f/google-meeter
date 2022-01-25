@@ -86,7 +86,7 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 - This asks 5 meeting times from first to last
 2. ### Default option-
 - This is a feature for school students 
-- You can configure part from line 21 to line 26 by just replacing the values(Example:-schedule.every().day.at("08:30").do(meet1) you can just change the "8:30 in this case so it becomes-schedule.every().day.at("09:00").do(meet1) which will tell the programme to open the google meet at that time
+- You can configure part from line 24 to line 28 by just replacing the values(Example:-schedule.every().day.at("08:30").do(meet1) you can just change the "8:30 in this case so it becomes-schedule.every().day.at("09:00").do(meet1) which will tell the programme to open the google meet at that time
 
 
 # Congratualtions You Did It :) 
