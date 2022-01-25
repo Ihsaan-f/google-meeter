@@ -1,6 +1,9 @@
 > # **Google-meeter**
 ### A simple python script that uses selenium(chrome web driver),pyautogui,time and schedule modules to enter google meets automatically.
 
+> ## **Contributor**
+- [Kallil6454](https://github.com/Kallil6454)
+
 **Note-This might not work on linux or mac, i haven't tested the script on linux or mac.I suggest having a fast internet :)**
 
 ## Dependencies- <br />
