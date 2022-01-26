@@ -1,8 +1,7 @@
 import schedule
-import pyautogui
 from google_meeter_back_end import meet1,meet2,meet3,login,meet4,meet5
 import time
-from selenium import webdriver
+
 time.sleep(2)
 option =str(input("Do you want the fast option or the default standard option.Read the github page for more info-\nfast/def or f/d:"))
 
