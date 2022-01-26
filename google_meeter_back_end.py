@@ -23,6 +23,8 @@ def login(driver):
     pas.send_keys(password)
     next2_0 = driver.find_element_by_xpath("/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span")
     next2_0.click()
+    #2 factor authentication also Idea by kallil6454 because he has 2fa
+    authentication = str(input("If you have 2 factor authentication accept the pop up sent in your phone,if you accepted it type yes here,If you dont have it you can just say yes")
 
 
 
