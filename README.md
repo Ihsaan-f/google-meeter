@@ -88,6 +88,11 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 - This is a feature for school students 
 - You can configure part from line 24 to line 28 by just replacing the values(Example:-schedule.every().day.at("08:30").do(meet1) you can just change the "8:30 in this case so it becomes-schedule.every().day.at("09:00").do(meet1) which will tell the programme to open the google meet at that time
 
+## IF your account has 2FA (2 Factor Authenthication)
+- You might run the program and wait for it to reach the 2FA confirmation page
+- Now Stop the program And Add your Account 
+- Close the windows or application and restart the program
+- (we are bringing an update for this but you should wait D:)
 
 # Congratualtions You Did It :) 
 Now wait for the programme to start,**Enjoy**
