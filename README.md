@@ -91,6 +91,7 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 
 # Congratualtions You Did It :) 
 Now wait for the programme to start,**Enjoy**
+Star the repo :) 🌠
 
 ![pepe happy](https://i.kym-cdn.com/photos/images/original/002/122/095/1b8.png)
 
