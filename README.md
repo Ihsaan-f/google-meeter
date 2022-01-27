@@ -95,7 +95,11 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 - Close the windows or application and restart the program
 - (we are bringing an update for this but you should wait D:)
 - AGAIN am mentioning, you only need to do this if you have errors after 2fa page
-
+## Windows FireWall Issue
+- Windows FireWall may give a pop up about "Windows firewall blocked some features of a app :- python" 
+- There is no worry about it, its just python (we wont hack you or something)
+- no need to allow and close the windows firewall pop up
+- and then you can continue the program will run all fine 
 # Congratualtions You Did It :) 
 Now wait for the programme to start,**Enjoy**
 Star the repo :) 🌠
@@ -104,4 +108,5 @@ Star the repo :) 🌠
 
 **I will Update the Programme when Needed :).**
 
-message from kallil6454: How to get lazier definition.
+message from kallil6454: How to get lazier definition
+                         all the issue fixes are done by me,my man wont even check error or issues like 2fa and windows firewall smh
