@@ -111,4 +111,4 @@ Star the repo :) 🌠
 ## messages from kallil6454:
 - How to get lazier definition
 - why did we make this, we are making things more complex like its just click link off cam and mic and join instead of putting stuffs in correct file and adding time and the intense waiting and then joining in- 
-- some one plaz star thanks 
+- all you need to be able to win is too [read more]
