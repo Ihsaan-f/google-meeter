@@ -108,5 +108,6 @@ Star the repo :) 🌠
 
 **I will Update the Programme when Needed :).**
 
-message from kallil6454: How to get lazier definition
-                         all the issue fixes are done by me,my man wont even check error or issues like 2fa and windows firewall smh
+messages from kallil6454: 
+-How to get lazier definition
+-all the issue fixes are done by me,my man wont even check error or issues like 2fa and windows firewall smh
