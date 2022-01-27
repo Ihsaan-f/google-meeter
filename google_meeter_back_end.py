@@ -70,6 +70,15 @@ def meet1():
         time.sleep(2)
         repeater+=1
     pyautogui.press("enter")
+    question = str(input("Do you want to leave manually or automatically,Enter man for manual and auto for automatic read the github for more info: \n"))
+    if question == "auto" or question == "automatic":
+        min = int(input("After how many minutes do you want to leave the meeting:"))
+        # converting it into seconds
+        min = min * 60
+        time.sleep(min)
+        driver2.quit()
+    else:
+        print("Ok")
 
 
 def meet2():
@@ -113,6 +122,15 @@ def meet2():
         time.sleep(2)
         repeater+=1
     pyautogui.press("enter")
+    question = str(input("Do you want to leave manually or automatically,Enter man for manual and auto for automatic read the github for more info: \n"))
+    if question == "auto" or question == "automatic":
+        min = int(input("After how many minutes do you want to leave the meeting:"))
+        # converting it into seconds
+        min = min * 60
+        time.sleep(min)
+        driver2.quit()
+    else:
+        print("Ok")
 
 
 
@@ -157,6 +175,15 @@ def meet3():
         time.sleep(2)
         repeater += 1
     pyautogui.press("enter")
+    question = str(input("Do you want to leave manually or automatically,Enter man for manual and auto for automatic read the github for more info: \n"))
+    if question == "auto" or question == "automatic":
+        min = int(input("After how many minutes do you want to leave the meeting:"))
+        # converting it into seconds
+        min = min * 60
+        time.sleep(min)
+        driver2.quit()
+    else:
+        print("Ok")
 
 
 def meet4():
@@ -200,6 +227,15 @@ def meet4():
         time.sleep(2)
         repeater+=1
     pyautogui.press("enter")
+    question = str(input("Do you want to leave manually or automatically,Enter man for manual and auto for automatic read the github for more info: \n"))
+    if question == "auto" or question == "automatic":
+        min = int(input("After how many minutes do you want to leave the meeting:"))
+        # converting it into seconds
+        min = min * 60
+        time.sleep(min)
+        driver2.quit()
+    else:
+        print("Ok")
 
 
 def meet5():
@@ -243,3 +279,12 @@ def meet5():
         time.sleep(2)
         repeater += 1
     pyautogui.press("enter")
+    question = str(input("Do you want to leave manually or automatically,Enter man for manual and auto for automatic read the github for more info: \n"))
+    if question == "auto" or question == "automatic":
+        min = int(input("After how many minutes do you want to leave the meeting:"))
+        # converting it into seconds
+        min = min * 60
+        time.sleep(min)
+        driver2.quit()
+    else:
+        print("Ok")
