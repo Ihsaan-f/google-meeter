@@ -76,7 +76,7 @@ def meet1():
         # converting it into seconds
         min = min * 60
         time.sleep(min)
-        driver2.quit()
+        driver1.quit()
     else:
         print("Ok")
 
@@ -181,7 +181,7 @@ def meet3():
         # converting it into seconds
         min = min * 60
         time.sleep(min)
-        driver2.quit()
+        driver3.quit()
     else:
         print("Ok")
 
@@ -233,7 +233,7 @@ def meet4():
         # converting it into seconds
         min = min * 60
         time.sleep(min)
-        driver2.quit()
+        driver4.quit()
     else:
         print("Ok")
 
@@ -285,6 +285,6 @@ def meet5():
         # converting it into seconds
         min = min * 60
         time.sleep(min)
-        driver2.quit()
+        driver5.quit()
     else:
         print("Ok")
