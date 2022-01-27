@@ -98,8 +98,8 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 ## Windows FireWall Issue
 - Windows FireWall may give a pop up about "Windows firewall blocked some features of a app :- python" 
 - There is no worry about it, its just python (we wont hack you or something)
-- no need to allow and close the windows firewall pop up
-- and then you can continue the program will run all fine 
+- No need to allow and close the windows firewall pop up
+- And then you can continue the program will run all fine 
 # Congratualtions You Did It :) 
 Now wait for the programme to start,**Enjoy**
 Star the repo :) 🌠
@@ -108,6 +108,6 @@ Star the repo :) 🌠
 
 **I will Update the Programme when Needed :).**
 
-messages from kallil6454: 
+## messages from kallil6454: 
 -How to get lazier definition
 -all the issue fixes are done by me,my man wont even check error or issues like 2fa and windows firewall smh
