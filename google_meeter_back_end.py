@@ -189,7 +189,7 @@ def meet3():
 def meet4():
     driver4 = webdriver.Chrome()
     login(driver4)
-    time.sleep(10)
+    time.sleep(5)
     first_meet = driver4.get(meeting_4)
     time.sleep(1)
     pyautogui.press("tab")
