@@ -48,7 +48,7 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 ![This is an image of the chrome version tab](https://help.zenplanner.com/hc/article_attachments/360035466734/_a060ae9af573af5904eddb579d47c870__Image_2019-05-22_at_8.03.00_AM.png)
 4. Notedown the version.
 5. Then go to [chromium.org downloads](https://chromedriver.chromium.org/downloads)
-6. Then look for the version you taken note of in step 4 and then click and choose chromedriver_win32.zip.
+6. Then look for the version you taken note of in step 4 and then select chromedriver_win32.zip.
 7. Then i recommend moving chromedriver_win32.zip to documents and extract it **BUT DONT CLICK THE EXE FILE AFTER EXTRACTION**.
 8. You have succesfully installed the chrome-driver.
 
@@ -88,6 +88,12 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 - This is a feature for school students 
 - You can configure part from line 24 to line 28 by just replacing the values(Example:-schedule.every().day.at("08:30").do(meet1) you can just change the "8:30 in this case so it becomes-schedule.every().day.at("09:00").do(meet1) which will tell the programme to open the google meet at that time
 
+3. ###Automatic leaving-
+-You can type how many minutes after you want to leave automatically
+
+4. ###Manually leaving-
+- You don't have to type any minutes and do it the normal way of just pressing the red leave button
+
 ## IF your account has 2FA (2 Factor Authenthication)
 - You only need to do this if you have errors
 - You might run the program and wait for it to reach the 2FA confirmation page
@@ -95,11 +101,18 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 - Close the windows or application and restart the program
 - (we are bringing an update for this but you should wait D:)
 - AGAIN am mentioning, you only need to do this if you have errors after 2fa page
-## Windows FireWall Issue
+
+## Issues
+### Windows FireWall Issue
 - Windows FireWall may give a pop up about "Windows firewall blocked some features of a app :- python" 
 - There is no worry about it, its just python (we wont hack you or something)
 - No need to allow and close the windows firewall pop up
 - And then you can continue the program will run all fine 
+
+### Chromedriver.exe popping up in taskbar
+- We have found the solution to this problem but this is more complicated
+- If you know what you are doing just follow instruction on this [article](https://stackoverflow.com/questions/33983860/hide-chromedriver-console-in-python#:~:text=Locate%20and%20edit%20this%20file,py%20in%20your%20Python%20folder.&text=This%20should%20also%20work%20for,to%20start%20the%20webdriver%20process.)
+
 # Congratualtions You Did It :) 
 Now wait for the programme to start,**Enjoy**
 Star the repo :) 🌠
