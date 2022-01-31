@@ -44,8 +44,11 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 ### **Chrome-driver/webdriver**
 1. First you have to know the chrome version of you browser by clicking the three dots at the top right.
 2. Then hover to help then click about google chrome.
-3. If you did it correctly it will showup like this:
-![This is an image of the chrome version tab](https://help.zenplanner.com/hc/article_attachments/360035466734/_a060ae9af573af5904eddb579d47c870__Image_2019-05-22_at_8.03.00_AM.png)
+3. Pictorial demonstration:
+
+![This is an image of the chrome version tab](https://howtoway.com/wp-content/uploads/2019/04/About-Google-Chrome-Browser.jpg)
+
+
 4. Notedown the version.
 5. Then go to [chromium.org downloads](https://chromedriver.chromium.org/downloads)
 6. Then look for the version you taken note of in step 4 and then select chromedriver_win32.zip.
