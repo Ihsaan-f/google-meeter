@@ -94,7 +94,7 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 4. ###Manually leaving-
 - You don't have to type any minutes and do it the normal way of just pressing the red leave button
 
-## IF your account has 2FA (2 Factor Authenthication)
+## IF your account has 2FA (2 Factor Authenthication)(update: i think no more issues
 - You only need to do this if you have errors
 - You might run the program and wait for it to reach the 2FA confirmation page
 - Now Stop the program And Add your Account 
