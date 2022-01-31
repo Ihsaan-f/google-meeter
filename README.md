@@ -4,7 +4,7 @@
 > ## **Contributor**
 - [Kallil6454](https://github.com/Kallil6454)
 
-**Note-This might not work on linux or mac, i haven't tested the script on linux or mac.I suggest having a fast internet :)**
+**Note-This might not work on mac,I have tested it on linux in a virtual-machine(Arch),I had made adjustment to google_meeter_back_end(replacing google chrome with firefox and replacing chromedriver with geckodriver),It didnt work for me because i was in a VM but i think it does work if you made the adjustments that i did.I suggest having a fast internet :)**
 
 ## Dependencies- <br />
 - **python** <br />
