@@ -88,13 +88,13 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 - This is a feature for school students 
 - You can configure part from line 24 to line 28 by just replacing the values(Example:-schedule.every().day.at("08:30").do(meet1) you can just change the "8:30 in this case so it becomes-schedule.every().day.at("09:00").do(meet1) which will tell the programme to open the google meet at that time
 
-3. ###Automatic leaving-
+3. ### Automatic leaving-
 -You can type how many minutes after you want to leave automatically
 
-4. ###Manually leaving-
+4. ### Manually leaving-
 - You don't have to type any minutes and do it the normal way of just pressing the red leave button
 
-## IF your account has 2FA (2 Factor Authenthication)(update: i think no more issues
+## IF your account has 2FA (2 Factor Authenthication)(update: i think no more issues)
 - You only need to do this if you have errors
 - You might run the program and wait for it to reach the 2FA confirmation page
 - Now Stop the program And Add your Account 
