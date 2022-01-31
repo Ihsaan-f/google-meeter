@@ -89,7 +89,7 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 - You can configure part from line 24 to line 28 by just replacing the values(Example:-schedule.every().day.at("08:30").do(meet1) you can just change the "8:30 in this case so it becomes-schedule.every().day.at("09:00").do(meet1) which will tell the programme to open the google meet at that time
 
 3. ### Automatic leaving-
--You can type how many minutes after you want to leave automatically
+- You can type how many minutes after you want to leave automatically
 
 4. ### Manually leaving-
 - You don't have to type any minutes and do it the normal way of just pressing the red leave button
