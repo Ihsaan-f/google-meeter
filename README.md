@@ -4,7 +4,7 @@
 > ## **Contributor**
 - [Kallil6454](https://github.com/Kallil6454)
 
-**Note-This might not work on mac,I have tested it on linux in a virtual-machine(Arch),I had made adjustment to google_meeter_back_end(replacing google chrome with firefox and replacing chromedriver with geckodriver),It didnt work for me because i was in a VM but i think it does work if you made the adjustments that i did.I suggest having a fast internet :)**
+**Note-This might not work on mac,I have tested it on linux in a virtual-machine(Arch),I had made adjustment to google_meeter_back_end(replacing google chrome with firefox and replacing chromedriver with geckodriver),It didnt work for me because i was in a VM but i think it does work if you made the adjustments that i did.I suggest having a fast internet,Ensure you have good lighting**
 
 ## Dependencies- <br />
 - **python** <br />
@@ -43,12 +43,7 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 
 ### **Chrome-driver/webdriver**
 1. First you have to know the chrome version of you browser by clicking the three dots at the top right.
-2. Then hover to help then click about google chrome.
-3. Pictorial demonstration:
-
-![This is an image of the chrome version tab](https://howtoway.com/wp-content/uploads/2019/04/About-Google-Chrome-Browser.jpg)
-
-
+2. Then hover to help then click "About google chrome".
 4. Notedown the version.
 5. Then go to [chromium.org downloads](https://chromedriver.chromium.org/downloads)
 6. Then look for the version you taken note of in step 4 and then select chromedriver_win32.zip.
