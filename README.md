@@ -124,3 +124,4 @@ Star the repo :) 🌠
 - why did we make this, we are making things more complex like its just click link off cam and mic and join instead of putting stuffs in correct file and adding time and the intense waiting and then joining in- 
 - all you need to be able to win is too [read more]
 - i have tested this code for the first time is 11:49 in 29th Jan in your local time
+- there was no issue in 2fa(the more you know)
