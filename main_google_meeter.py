@@ -4,6 +4,7 @@ import time
 from ascii_art import logo
 
 print(logo)
+print("this is the logo btw")
 time.sleep(2)
 option =str(input("Do you want the fast option or the default standard option.Read the github page for more info-\nfast/def or f/d:"))
 
