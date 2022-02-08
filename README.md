@@ -35,10 +35,10 @@
 
 ![This is an image of the command prompt which ran "pip help"](https://phoenixnap.com/kb/wp-content/uploads/2021/06/pip-help-command.png)
 
-3. Now do "pip install selenium pyautogui schedule time" and enter.
+3. Now do ```pip install selenium pyautogui schedule time``` and enter.
 4. This might take some time downloading.
-5. If it says "WARNING: You are using pip version (version); however, version (version) is available.
-You should consider upgrading via the 'C:\Python310\python.exe -m pip install --upgrade pip' command".You can upgrade if you want but it is not compulsory.
+5. If it says ```WARNING: You are using pip version (version); however, version (version) is available.
+You should consider upgrading via the 'C:\Python310\python.exe -m pip install --upgrade pip' command```.You can upgrade if you want but it is not compulsory.
 6. You have successfully installed the pip modules 😃.
 
 ### **Chrome-driver/webdriver**
@@ -53,7 +53,7 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 ## Configuration
 1. Now that all the dependencies are finished you can now download the zip file of this repository.
 2. Move it to the documents folder.
-3. Then extract the file which has 3 python files named main_google_meeter.py,google_meeter_back_end and Google_meets.py.
+3. Then extract the file which has 4 python files named main_google_meeter.py,google_meeter_back_end,Google_meets.py and ascii_art.
 
 ### main_google_meeter.py-
 - This is the main file,You have to run this in order to run the full 3 files.
@@ -66,6 +66,9 @@ You should consider upgrading via the 'C:\Python310\python.exe -m pip install --
 ### Google_meets.py
 - This is where you put the links you want to join.
 - It will be in an order from the first link to the last link in corresponding with time.
+
+### Ascii_art.py
+- Its just an ascii art of the logo
 
 ## Running it
 1. Search idle in windows search then open it.
